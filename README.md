@@ -49,5 +49,4 @@ It showcases an **end-to-end AI integration** with cloud backend, vector search,
 
 ## 🎥 Video Walkthrough
 
-👉 **Add your walkthrough video link here:**
-[Watch the Demo Video](#)
+[Video](https://youtu.be/vgcw86n0aNE)
